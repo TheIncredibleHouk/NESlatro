@@ -1,0 +1,26 @@
+; NESlatro.asm
+Param_A                          = $000A
+Ppu_Mask                         = $0203
+Param_B                          = $000B
+Param_C                          = $000C
+Param_D                          = $000D
+Param_E                          = $000E
+Vertical_Scroll                  = $0205
+Horizontal_Scroll                = $0204
+Param_F                          = $000F
+Mmc3_BankA000                    = $0201
+Param_0                          = $0000
+Current_Palette                  = $0206
+Mmc3_Bank8000                    = $0200
+Param_1                          = $0001
+Param_2                          = $0002
+Param_3                          = $0003
+Target_Palette                   = $0226
+Param_4                          = $0004
+Param_5                          = $0005
+Param_6                          = $0006
+Param_7                          = $0007
+Param_8                          = $0008
+Param_9                          = $0009
+Ppu_Ctrl                         = $0202
+DEBUG_SNAP                       = $7FFF
